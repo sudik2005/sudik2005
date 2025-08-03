@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm sudik2005! 👋
 
-<!--
-**sudik2005/sudik2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** passionate about tech, constantly learning and building new things.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML
+- CSS
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Hobbies
+When I'm not coding, you can find me playing video games and exploring new worlds!
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kidus%20Mintesnot-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kidus-mintesnot-66aba2289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+Thanks for visiting my profile!
