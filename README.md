@@ -1,4 +1,4 @@
-# Hi there, I'm sudik2005! 👋
+# Hi there, I'm Kidus Mintesnot! 👋
 
 🎓 **Student** passionate about tech, constantly learning and building new things.
 
